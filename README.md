@@ -1,1 +1,1 @@
-# gcd_course_project
+# GCD Course Project
